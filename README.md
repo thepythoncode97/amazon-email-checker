@@ -17,12 +17,14 @@
 - **快速检查**：快速检查列表中的电子邮件。
 - **准确的结果**：确保精确验证。
 
-## Contact
-＃＃ 接触
+## 🤝 Get in Touch
 
-To purchase this tool, contact me via Telegram [@thepythoncode97](https://t.me/thepythoncode97).
+if you want to purchase,
 
-如果您想购买此工具，请通过 Telegram 与我联系 [@thepythoncode97](https://t.me/thepythoncode97).
+如果你想购买，
+
+- Email     : elowenreply@gmail.com
+- Telegram  : [@thepythoncode97](https://t.me/thepythoncode97)
 
 ## Note:
 This tool is designed for marketers and businesses. If you engage in any illegal activities using this tool, the author will not take any responsibility.
